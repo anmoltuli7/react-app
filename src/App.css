@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.mr-auto a{
+  color: rgb(182, 182, 182);
+  text-decoration: none;
+}
+.mr-auto a:hover{
+  color: #fff;
+  text-decoration: none;
+
+}
